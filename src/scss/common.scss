@@ -1,0 +1,9 @@
+// Заголовки, общие БЄМ блоки и прочее...
+.button {
+	background-color: $mainColor;
+	border-radius: 2px;
+	display: inline-flex;
+	justify-content:center;align-items: center;
+	color: white;
+	padding: 16px;
+}
