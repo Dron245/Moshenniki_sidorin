@@ -52,7 +52,7 @@
 	// 	}
 	display: grid;
  	grid-template-rows: subgrid;
-	grid-row: 1 / 3;
+	grid-row: auto / span 2;
 	@media (max-width:$mobile){
 		grid-row: initial;
 		display: initial;
