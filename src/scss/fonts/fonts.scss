@@ -29,21 +29,21 @@
 @font-face {
 	font-family: Noah;
 	font-display: swap;
-	src: url("../fonts/Noah-Medium.woff2") format("woff2"), url("../fonts/Noah-Medium.woff") format("woff");
-	font-weight: 500;
-	font-style: normal;
-}
-@font-face {
-	font-family: Times;
-	font-display: swap;
-	src: url("../fonts/Times.woff2") format("woff2"), url("../fonts/Times.woff") format("woff");
-	font-weight: 400;
+	src: url("../fonts/Noah-ExtraBold.woff2") format("woff2"), url("../fonts/Noah-ExtraBold.woff") format("woff");
+	font-weight: 800;
 	font-style: normal;
 }
 @font-face {
 	font-family: Noah;
 	font-display: swap;
-	src: url("../fonts/Noah-ExtraBold.woff2") format("woff2"), url("../fonts/Noah-ExtraBold.woff") format("woff");
-	font-weight: 800;
+	src: url("../fonts/Noah-Medium.woff2") format("woff2"), url("../fonts/Noah-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: times;
+	font-display: swap;
+	src: url("../fonts/times-10-italic.woff2") format("woff2"), url("../fonts/times-10-italic.woff") format("woff");
+	font-weight: 400;
 	font-style: normal;
 }
